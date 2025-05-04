@@ -1,5 +1,5 @@
 # Quasi-Newton-Optimization-Project
-=================================
+
 Implementation of:
  - BFGS
  - L‑BFGS (two‑loop recursion, memory m)
